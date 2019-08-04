@@ -1,0 +1,8 @@
+[package]
+name = "rust_snippets"
+version = "0.1.0"
+authors = ["johnnyedgett <bostonjohn94@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.4.0"
